@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash Verma</h1>
 <h3 align="center">A dev-learner from India</h3>
-Hello comrades , welcome back to my youtube channel........
 - 🔭 I’m currently working on **Hardhat-fund-me**
 
 - 🌱 I’m currently learning **React & Hardhat**
