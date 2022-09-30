@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakash Verma</h1>
 <h3 align="center">A dev-enthusiast from India</h3>
-- 🔭 I’m currently working on **Hardhat-fund-me**
+- 🔭 I’m currently working on **Hardhat-lottery**
 
 - 🌱 I’m currently learning **React & Hardhat**
 
