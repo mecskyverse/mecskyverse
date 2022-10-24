@@ -2,7 +2,7 @@
 <h3 align="center">A dev-enthusiast from India</h3>
 - 🔭 I’m currently working on **Raffle-Frontend**
 
-- 🌱 I’m currently learning **React & Hardhat**
+- 🌱 I’m currently learning **Next.js & Hardhat**
 
 - 💬 Ask me about **Front-End, Web3**
 
