@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakash Verma</h1>
 <h3 align="center">A dev-enthusiast from India</h3>
-- 🔭 I’m currently working on **Raffle-Frontend**
+- 🔭 I’m currently working on **Recrumatic.com**
 
 - 🌱 I’m currently learning **Next.js & Hardhat**
 
