@@ -23,6 +23,11 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
       </a>
     </td>
+     <td align="center">
+      <a href="https://www.linkedin.com/in/aakash-verma-23ba18244/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/9a695b70-8e25-4a50-b8c2-7edd9359976e" height="30" width="30" />
+      </a>
+    </td>
   </tr>
 </table>
 
