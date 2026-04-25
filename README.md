@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aakash Verma</h1>
 <h3 align="center">A dev-enthusiast from India</h3>
-- 🔭 I’m currently working on <a href="https://recrumatic.com/" target="_blank">Recrumatic.com</a>
+- 🔭 I’m currently working on <a href="https://payoutmate.com/" target="_blank">PayoutMate.com</a>
 
-- 🌱 I’m currently learning **Next.js & Hardhat**
+- 🌱 I’m currently learning **System Design & Architecture**
 
-- 💬 Ask me about **Front-End, Web3**
+- 💬 Ask me about **Front-End, Web3, WordPress**
 
 - 📫 How to reach me **vermaaakash1000@gmail.com**
 
